@@ -6,7 +6,7 @@
  * Date: 03/04/2022
  */
 
-package br.com.phmiranda.banco.domain.dto.request;
+package br.com.phmiranda.banco.domain.dto.response;
 
-public class BancoRequest {
+public class InstituicaoBancariaResponseDto {
 }

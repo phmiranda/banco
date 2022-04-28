@@ -1,0 +1,5 @@
+INSERT INTO usuarios(id, data_nascimento, documento, email, nome, senha) VALUES (1, '1990-12-01', '01101201399', 'admin@email.com.br', 'Administrador do Sistema', '123456');
+INSERT INTO usuarios(id, data_nascimento, documento, email, nome, senha) VALUES (2, '1990-12-01', '01101201399', 'admin@email.com.br', 'Administrador do Sistema', '123456');
+INSERT INTO usuarios(id, data_nascimento, documento, email, nome, senha) VALUES (3, '1990-12-01', '01101201399', 'admin@email.com.br', 'Administrador do Sistema', '123456');
+INSERT INTO usuarios(id, data_nascimento, documento, email, nome, senha) VALUES (4, '1990-12-01', '01101201399', 'admin@email.com.br', 'Administrador do Sistema', '123456');
+INSERT INTO usuarios(id, data_nascimento, documento, email, nome, senha) VALUES (5, '1990-12-01', '01101201399', 'admin@email.com.br', 'Administrador do Sistema', '123456');

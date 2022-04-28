@@ -8,5 +8,5 @@
 
 package br.com.phmiranda.banco.domain.dto.response;
 
-public class BancoResponse {
+public class TransferenciaResponseDto {
 }

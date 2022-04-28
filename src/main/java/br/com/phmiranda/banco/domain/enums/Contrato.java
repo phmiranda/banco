@@ -9,11 +9,7 @@
 package br.com.phmiranda.banco.domain.enums;
 
 public enum Contrato {
-    CONTA_CORRENTE,
-    CONTA_PESSOA_FISICA,
-    CONTA_PESSOA_JURIDICA,
-    CONTA_INVESTIMENTO,
-    CONTA_ESTUDANTE,
-    CONTA_POUPANCA,
+    PESSOA_FISICA,
+    PESSOA_JURIDICA,
     SEM_VINCULO,
 }

@@ -8,5 +8,5 @@
 
 package br.com.phmiranda.banco.domain.dto.request;
 
-public class TransferenciaRequest {
+public class InstituicaoBancariaRequestDto {
 }

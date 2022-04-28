@@ -10,6 +10,5 @@ package br.com.phmiranda.banco.domain.enums;
 
 public enum Situacao {
     ATIVADO,
-    DESTIVADO,
-    SEM_STATUS,
+    INATIVO,
 }

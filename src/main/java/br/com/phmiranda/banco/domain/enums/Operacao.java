@@ -9,8 +9,8 @@
 package br.com.phmiranda.banco.domain.enums;
 
 public enum Operacao {
-    SEM_OPERACAO,
-    INVESTIMENTO,
-    CREDITO,
     DEBITO,
+    CREDITO,
+    INVESTIMENTO,
+    SEM_OPERACAO,
 }
